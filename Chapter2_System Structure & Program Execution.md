@@ -5,7 +5,7 @@
 - Device Controller : I/O 장치를 전담하는 작은 CPU
   - (ex) 디스크 controller, 키보드 controller ... 
 
-![Chap2](Chapter2_System Structure & Program Execution.assets/Chap2-1625977307599.png)
+![](Chapter2_System Structure & Program Execution.assets/컴퓨터_시스템_구조.png)
 
 ## Mode Bit
 
